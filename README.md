@@ -1,6 +1,10 @@
 <html>
 <body>
 <h2>sipcmd2 - simple SIP command line softphone</h2>
+<h3>zabbix</h3>
+<p>
+Copy call.sh to /usr/lib/zabbix/alertscripts, then create a media type script.
+</p>
 <h3>Introduction</h3>
 <p>
 Updated sipcmd command line soft phone that makes phone calls, accepts calls, enters DTMF digits, plays back WAV files and records them. A useful testing tool for VoIP systems. Runs on Linux.
